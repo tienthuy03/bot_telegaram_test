@@ -1,0 +1,11 @@
+=====================================================
+SYSTEM LOG DUMP - TEST INTEGRATION
+Time: 2026-10-15 22:30:42
+Endpoint: /api/logdemo/send-file
+Status: 200 OK
+Message: Chạy thử nghiệm đẩy log song song lên Telegram
+Client IP: ::1
+=====================================================
+[INFO] Bắt đầu gọi API
+[INFO] Đang thực hiện xử lý dữ liệu...
+[INFO] Xử lý thành công!
